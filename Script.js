@@ -176,6 +176,4 @@ goback.addEventListener('click', ()=>{
 lognav.addEventListener("click",()=>{
     document.getElementById('lgform').reset();
 })
-
-
 })
